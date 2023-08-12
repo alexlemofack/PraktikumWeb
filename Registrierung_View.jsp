@@ -4,7 +4,9 @@
 <html>
 <head>
 <title>Registrierung</title>
-<link rel="stylesheet" type="text/css" href="../css/login_registrieren.css">
+<link type="text/css" rel="stylesheet" href="../css_praktikum/alles.css">
+    <link type="text/css" rel="stylesheet" href="../css_praktikum/log_reg.css">
+
 </head>
 <body>
 
